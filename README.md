@@ -11,7 +11,7 @@ https://hossam-dev14.github.io/beard-oil-landing-page/
 
 
 ## Description
-beard-oil-landing-page is a clean landing page template. 
+beard-oil-landing-page is a clean and responsive landing page template. 
 
 
 ## Contact
