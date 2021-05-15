@@ -16,6 +16,6 @@ beard-oil-landing-page is a clean landing page template.
 
 ## Contact
 
-- Gmail [hossam-dev14](hossamdev14@gmail.com)
+- Gmail [hossam-dev14](mailto:hossamdev14@gmail.com)
 - GitHub [@hossam-dev14](https://github.com/hossam-dev14)
 - Twitter [@hossam-dev](https://twitter.com/hossam-dev)
