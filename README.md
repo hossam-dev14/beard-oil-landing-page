@@ -1,7 +1,7 @@
 # beard-oil-landing-page
 
 
-![beard-oil-landing-page](![beard-oil-landing-page](https://user-images.githubusercontent.com/73648971/118375094-0ef87400-b5af-11eb-83c6-147f085b913f.png)
+![beard-oil-landing-page](https://user-images.githubusercontent.com/73648971/118375094-0ef87400-b5af-11eb-83c6-147f085b913f.png)
 
 
 // Click here to preview: 
